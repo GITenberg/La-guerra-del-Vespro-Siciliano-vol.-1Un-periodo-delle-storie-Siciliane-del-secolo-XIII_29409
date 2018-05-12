@@ -1,0 +1,32 @@
+_repo: La-guerra-del-Vespro-Siciliano-vol.-1Un-periodo-delle-storie-Siciliane-del-secolo-XIII_29409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Amari, Michele
+    alias: Amari, M. (Michele)
+    birthdate: 1806
+    deathdate: 1889
+    gutenberg_agent_id: '33895'
+    url: http://www.gutenberg.org/2009/agents/33895
+    wikipedia: http://it.wikipedia.org/wiki/Michele_Amari
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2009-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29409'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Sicilian Vespers, Italy, 1282'
+- !lcsh 'Sicily (Italy) -- History'
+title: 'La guerra del Vespro Siciliano vol. 1
+
+  Un periodo delle storie Siciliane del secolo XIII'
+url: http://www.gutenberg.org/ebooks/29409
